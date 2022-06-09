@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Blogs"
-    url: /blogs/
   - title: "About"
     url: /about/
   - title: "Resume"
@@ -16,8 +14,6 @@ main:
 docs:
   - title: "Home"
     url: /
-  - title: "Blogs"
-    url: /blogs/
   - title: "About"
     url: /about/
   - title: "Resume"

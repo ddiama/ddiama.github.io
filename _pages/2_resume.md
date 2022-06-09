@@ -2,8 +2,8 @@
 layout: single
 title: Resume
 header:
-  overlay_image: /assets/images/image-home-page-Atmospheric_Re-entry_Demonstrator.jpg
-  caption: "Photo credit: [European Space Agency](https://www.esa.int/)"
+  overlay_image: /assets/images/pexels-pixabay-358319.jpg
+  caption: "Photo credit: Time Lapse Photography of White Commercial Airplane"
 permalink: /resume/
 author_profile: false
 sidebar:
@@ -12,75 +12,58 @@ sidebar:
 
 [Download Resume Here][1]{: .btn .btn--success .btn--large}
 
-[1]: /assets/docs/VSharma_CV.pdf
+[1]: /assets/docs/Diamantidou_CV_2col.pdf
 
-## Vishal Sharma  
-Sector-19, Noida, U.P., India  
-Email: [vxsharma14@gmail.com](mailto:vxsharma14@gmail.com) **|** 
-GitHub: [vxsharma-14](https://github.com/vxsharma-14)
+## Dimitra Eirini Diamantidou 
+Fyrtornsgatan 7A, 72210, Västerås, Sweden  
+Email: [diamantidoude@gmail.com](mailto:diamantidoude@gmail.com) **|** 
+GitHub: [ddiama](https://github.com/ddiama)
 
 #### **<ins>Education</ins>**
-**Wichita State University, Wichita, KS, USA**  
-Ph.D., Aerospace Engineering  
-May 2020  
+**Mälardalen University, Västerås, Sweden**  
+Ph.D., Energy and Enviromental Engineering   
+2019 - Present
 
-**Amity University, Noida, India**  
-Master of Science, Automobile Engineering  
-June 2014  
-
-**Rajiv Gandhi Technical University, Bhopal, India**  
-Bachelor of Science, Mechanical Engineering,  
-July 2008  
+**Aristotle University of Thessaloniki, Thessaloniki, Greece**  
+Dipl Ing., Mechanical Engineering  
+2013 - 2019  
 
 #### **<ins>Skills</ins>**
-**Programming**: Python, Fortran, C++ and Matlab  
-**Engineering Softwares**: Ansys- CFD Workbench, CATIA, Tecplot, Paraview  
-**Data Analytics** : SQL, RDBMS, Tableau, Python libraries- matplotlib, numpy, scipy, tkinter, pandas and seaborn  
-**Office Tools**: Microsoft - Word, PowerPoint, Excel, and Google - Docs, Sheets  
+**Programming**: Python, Fortran 90, C++, Matlab and Bash  
+
+**CFD Software**: ANSA, Ansys - CFD Workbench, OpenFOAM, Pointwise, Paraview  
+
+**Engineering Software**: Creo Parametric, Solidworks and Inventor 
+
+**Python Libraries**: matplotlib, numpy, pandas, pyfmi, scipy, sklearn and seaborn  
+
+**Office Tools**: Microsoft - Word, PowerPoint, Excel, and Google - Docs, Sheets 
+
 **Operating Systems**: Windows, UNIX  
-**IDEs**: Spyder, Eclipse, Python IDLE, Jupyter Notebook, MS Visual Studio
-**Version Control**: GitHub, Git
 
-#### **<ins>Present Experience</ins>**
-Researcher and Consultant    
-Self-employed  
-*December 2020 – Present*  
+**IDEs**: Spyder, Jupyter Notebook and MS Visual Studio
 
-#### **<ins>Previous Experiences</ins>**
+**Version Control**: GitHub, Git and MS Azure DevOps
 
-**Postdoctoral Research Fellow**  
-Texas A&M University, College Station, TX, USA  
-*June 2020 – September 2020*  
 
-**Graduate Research Assistant**  
-Wichita State University, Wichita, KS, USA  
-*August 2016 – May 2020*    
+#### **<ins>Professional Experience</ins>**
+
+**Doctoral Council member**  
+Doctoral Council, Mälardalen University, Västerås, Sweden
+*November 2021 - Present* 
+
+**Vice-Chair**  
+Student Advisory Committee, ASME Turbo Expo 2022  
+*July 2021 - Present* 
+
+**PhD Researcher**  
+Mälardalen University, Västerås, Sweden
+*September 2019 – Present*  
 
 **Research Engineer Intern**  
-Sanden Vikas India Limited, Faridabad, India  
-*December 2013 – May 2014*  
+ABB Corporate Researcher Center, Västerås, Sweden
+*February 2019 – August 2019*    
 
-**President (Founder)**  
-Shock-Tech, Wichita, KS, USA  
-*November 2016 - October 2017*  
-
-**Graduate Library Assistant**  
-Wichita State University Libraries, Wichita, KS, USA  
-*June 2015 – August 2017*  
-
-**Summer Intern**  
-Tata Motors Limited, Sanand, Gujrat, India  
-*May 2013 – July 2013*  
-
-**Data Analyst**  
-Yes Bank Limited, Gurgaon, Haryana, India  
-*August 2011 – March 2012*  
-
-**Data Analyst**  
-ICICI Bank Limited, Mumbai, Maharashtra, India  
-*May 2009 – August 2011*  
-
-#### **<ins>Publications</ins>**
-- **Sharma., V.**, and Hoffmann, K.A., *“Solution of Maxwell’s Equations Using Fourth-Order Modified Runge-Kutta Scheme on Transformed Coordinates,”* 2020 AIAA SciTech Forum, Orlando FL, AIAA 2020-2155, January 2020.  
-- **Sharma, V.**, *“Numerical Solution of Maxwell’s equations on transformed coordinates for non-rectangular electromagnetic applications,”* Ph.D. Dissertation, Wichita State University, May 2020.  
-- **Sharma, V.**, and Hoffmann, K.A., *“Solution of Maxwell’s Equations for Non-Rectangular Electromagnetic Applications,”* AIAA Journal of Thermophysics and Heat Transfer, September 2020.  
+**Suspesion Team Leader**  
+Aristotle Racing Team, Formula SAE International team
+*September 2014 – September 2016*  

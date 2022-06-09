@@ -29,8 +29,6 @@ title_separator          : ""
 subtitle                 : "ddiama.github.io" # site tagline that appears below site title in masthead
 name                     : "Dimitra-Eirini Diamantidou"
 description              : "My personal website to promote my research and work."
-port                     : 4000
-host                     : "0.0.0.0"
 url                      : "https://ddiama.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ddiama/ddiama.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -117,7 +115,7 @@ analytics:
 author:
   name                   : "Dimitra-Eirini Diamantidou"
   avatar                 : "/assets/images/deu01.jpg"
-  bio                    : PhD Researcher in conceptual design of hybrid-electric aircraft applications. 
+  bio                    : PhD Researcher in hybrid-electric aircraft propulsion 
   location               : "Sweden"
   email                  :
   links:
@@ -235,7 +233,7 @@ sass:
 permalink                : /:categories/:title/
 paginate                 : # 10 # amount of posts to show
 paginate_path            : # /page:num/
-timezone                 : Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone                 : Europe/Stockholm # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 toc                      : true
 atom_feed:
     hide                 : true
@@ -359,12 +357,3 @@ picture:
       source_default:
         width            : "320"
 
-
-
-
-
-
-
-
-
-theme: jekyll-theme-cayman

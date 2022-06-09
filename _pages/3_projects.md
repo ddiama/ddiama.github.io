@@ -2,8 +2,8 @@
 layout: single
 title: Research & Teaching
 header:
-  overlay_image: /assets/images/image-home-page-Atmospheric_Re-entry_Demonstrator.jpg
-  caption: "Photo credit: [European Space Agency](https://www.esa.int/)"
+  overlay_image: /assets/images/pexels-pixabay-358319.jpg
+  caption: "Photo credit: Time Lapse Photography of White Commercial Airplane"
 permalink: /research/
 author_profile: false
 sidebar:
@@ -31,3 +31,8 @@ sidebar:
   Institution: Amity University, Noida, India  
 * Implementation of Statistical Process Control (SPC) for quality control of car outer body panels. (2013)  
   Company: Tata Motors Ltd., Gujarat, India  
+
+#### **<ins>Publications</ins>**
+- **Sharma., V.**, and Hoffmann, K.A., *“Solution of Maxwell’s Equations Using Fourth-Order Modified Runge-Kutta Scheme on Transformed Coordinates,”* 2020 AIAA SciTech Forum, Orlando FL, AIAA 2020-2155, January 2020.  
+- **Sharma, V.**, *“Numerical Solution of Maxwell’s equations on transformed coordinates for non-rectangular electromagnetic applications,”* Ph.D. Dissertation, Wichita State University, May 2020.  
+- **Sharma, V.**, and Hoffmann, K.A., *“Solution of Maxwell’s Equations for Non-Rectangular Electromagnetic Applications,”* AIAA Journal of Thermophysics and Heat Transfer, September 2020.  

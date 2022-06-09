@@ -1,20 +1,19 @@
 ---
 layout: single
-title: About Vishal
+title: About Dimitra
 header:
-  overlay_image: /assets/images/image-home-page-Atmospheric_Re-entry_Demonstrator.jpg
-  caption: "Photo credit: [European Space Agency](https://www.esa.int/)"
+  overlay_image: /assets/images/pexels-pixabay-358319.jpg
+  caption: "Photo credit: Time Lapse Photography of White Commercial Airplane"
 permalink: /about/
 author_profile: true
 ---
-I have a diverse professional experience in research, analytics and management. I transitioned from analytics role in financial sector to a research scientist and a developer in Computational Fluid Dynamics (CFD) for aerospace applications.
+I am self-motivated and creative engineer with a diverse range of skills. I am currently focusing on fundamentals of machine learning and specifically deep learning techniques to create predictive models for fluid mechanics problems. I am passionate with python programming and developing small projects in my personal GitHub page. 
 
-If you are someone who is interested in knowing more about my research, or want to invite me for a seminar talk, or if you are interested in research collaborations, please feel free to contact me through email, Twitter or LinkedIn links provided on my [homepage](/home/).
+If you are interested in knowing more about my research, please feel free to contact me through email, Twitter or LinkedIn links provided here.
 {: .notice--info}
 
-I am offering freelancing services in CFD and Data Analytics. Having worked at two different multi-national banks in India and at Aerospace research labs in USA, I can offer a wide range of skills and tools, and help you scale and streamline your business requirements.
+<!-- I received a 5-year Mechanical Engineering Diploma (Dipl.-Ing.) from the Aristotle University of Thessaloniki with a specialization in Aeronautics and Engines. My undergraduation studies were focused on gas turbine performance, computational fluid mechanics (CFD) and statistics.
 
-Alongside, I am working on computational modeling and investigation of non-equilibrium thermo-chemical environment that occurs during atmospheric-entry of space capsules. I am passionate about Python programming.
+I undertook my Master Thesis in ABB Corporate Research Center (CRC) in Västerås, Sweden. My master thesis topic was focused on the development of reduced order models (ROMs) to accelerate the simulations needed to predict the thermal behavior of high-voltage enclosures while keeping the accuracy in acceptable levels. -->
 
-I completed my Ph.D. in Aerospace Engineering from Wichita State University, Wichita, KS, USA. My Ph.D. research was focused on investigating efficient numerical methods to computationally simulate the propagation of electromagnetic waves for aerospace applications. I earned my Master degree in Automobile Engineering from Amity University, Noida, India and Bachelor degree in Mechanical Engineering from RGPV, Bhopal, India. For more details, check out my [Resume](/resume/) and [Research](/research/) pages.
-
+I am currently working in Mälardalen University (MDU) as a PhD Researcher for an EU-funded collaborative research project, [HECARRUS](https://hecarrus.eu/). My work focuses on the conceptual design of a Boundary Layer Ingestion (BLI) propulsor employed in a hybrid-electric commuter aircraft. For more details, check out my [Resume](/resume/) and [Research](/research/) pages.

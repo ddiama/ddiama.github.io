@@ -84,14 +84,14 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : SYD0JgIlJwQXb6L6lDyBaRuknpto7FAtNLQEM7RqswU
+google_site_verification : # SYD0JgIlJwQXb6L6lDyBaRuknpto7FAtNLQEM7RqswU
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "DrVishal_aero"
+  username               : "dediamant95"
 facebook:
   username               :
   app_id                 :
@@ -106,17 +106,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-220189606-1
-    anonymize_ip         : false # false (default)
+    tracking_id          : #UA-220189606-1
+    anonymize_ip         : #false # false (default)
     optimize_id          : 
     allow_google_signals : # false
 
 # Site Author
 author:
-  name                   : "Vishal Sharma, PhD"
-  avatar                 : "/assets/images/VSharma_avat.jpg"
+  name                   : "Dimitra-Eirini Diamantidou"
+  avatar                 : "/assets/images/deu01.jpg"
   bio                    : Researcher in atmospheric-entry aerothermodynamics. I share content on fluid dynamics, academic topics, and Python related topics.
   location               : "India"
   email                  :

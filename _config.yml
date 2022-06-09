@@ -24,16 +24,16 @@ minimal_mistakes_skin    : "air" #"air", "aqua", "contrast", "dark", "dirt", "ne
 
 # Site Settings
 locale                   : "en-US"
-title                    : "vxsharma-14.github.io"
+title                    : "ddiama.github.io"
 title_separator          : ""
-subtitle                 : "vxsharma-14.github.io" # site tagline that appears below site title in masthead
-name                     : "Dr. Vishal Sharma"
-description              : "My portfolio website to promote my research and consulting work."
+subtitle                 : "ddiama.github.io" # site tagline that appears below site title in masthead
+name                     : "Dimitra-Eirini Diamantidou"
+description              : "My personal website to promote my research and work."
 port                     : 4000
 host                     : "0.0.0.0"
-url                      : "https://vxsharma-14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url                      : "https://ddiama.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : vxsharma-14/vxsharma-14.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : ddiama/ddiama.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # /assets/images/joel-filipe-thumb-800.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title

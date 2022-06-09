@@ -117,44 +117,44 @@ analytics:
 author:
   name                   : "Dimitra-Eirini Diamantidou"
   avatar                 : "/assets/images/deu01.jpg"
-  bio                    : Researcher in atmospheric-entry aerothermodynamics. I share content on fluid dynamics, academic topics, and Python related topics.
-  location               : "India"
+  bio                    : PhD Researcher in conceptual design of hybrid-electric aircraft applications. 
+  location               : "Sweden"
   email                  :
   links:
     - label              : "Email"
       icon               : "fas fa-fw fa-envelope-square"
-      url                : "mailto:vxsharma14@gmail.com"
+      url                : "mailto:diamantidou.dimitra.eirini@gmail.com"
     - label              : "Website"
       icon               : "fas fa-fw fa-link"
-      url                : #"https://vxsharma-14.github.io"
+      url                : "https://ddiama.github.io"
     - label              : "Linkedin"
       icon               : "fab fa-fw fa-linkedin"
-      url                : "https://linkedin.com/in/vishalsharmaofficial/"
+      url                : "https://www.linkedin.com/in/dimitra-eirini-diamantidou/"
     - label              : "Twitter"
       icon               : "fab fa-fw fa-twitter-square"
-      url                : "https://twitter.com/DrVishal_aero"
+      url                : "https://twitter.com/dediamant95"
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
-      url                : "https://github.com/vxsharma-14"
-    - label              : "Instagram"
-      icon               : "fab fa-fw fa-instagram"
-      url                : "https://instagram.com/iamvsharma/"
+      url                : "https://github.com/ddiama"
+    # - label              : "Instagram"
+    #   icon               : "fab fa-fw fa-instagram"
+    #   url                : "https://instagram.com/iamvsharma/"
 
 # Site Footer
 footer:
   links:
     - label              : "Twitter"
       icon               : "fab fa-fw fa-twitter-square"
-      url                : "https://twitter.com/FollowingVishal"
+      url                : "https://twitter.com/dediamant95"
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
-      url                : "https://github.com/vxsharma-14"
-    - label              : "Instagram"
-      icon               : "fab fa-fw fa-instagram"
-      url                : "https://instagram.com/iamvsharma/"
+      url                : "https://github.com/ddiama"
+    # - label              : "Instagram"
+    #   icon               : "fab fa-fw fa-instagram"
+    #   url                : "https://instagram.com/iamvsharma/"
     - label              : "Linkedin"
       icon               : "fab fa-fw fa-linkedin"
-      url                : "https://linkedin.com/in/vishalsharmaofficial/"
+      url                : "https://linkedin.com/in/dimitra-eirini-diamantidou/"
 
 # Reading Files
 include:

@@ -29,7 +29,7 @@ title_separator          : ""
 subtitle                 : "ddiama.github.io" # site tagline that appears below site title in masthead
 name                     : "Dimitra-Eirini Diamantidou"
 description              : "My personal website to promote my research and work."
-url                      : "dimitra-diama.com # the base hostname & protocol for your site, e.g. http://example.com
+url                      : "www.dimitra-diama.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ddiama/ddiama.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # /assets/images/joel-filipe-thumb-800.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"

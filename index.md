@@ -6,8 +6,9 @@ permalink: /
 hidden: true
 author_profile: true
 header:
-  overlay_image: /assets/images/pexels-pixabay-358319.jpg
-  caption: "Photo credit: Time Lapse Photography of White Commercial Airplane"
+  overlay_image: /assets/images/iwan-shimko-tCp2K2sYpFg-unsplash.jpg
+  caption: "Photo credit: Photo by <a href="https://unsplash.com/@iwnph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Iwan Shimko</a> on <a href="https://unsplash.com/s/photos/aviation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  "
 excerpt: "Personal website" 
 ---
 I am a PhD student and I work with hybrid-electric propulsion architectures for small commuter aircraft applications. Know more [about me here](/about/).

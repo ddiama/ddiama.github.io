@@ -9,9 +9,6 @@ author_profile: true
 ---
 I am self-motivated and creative engineer with a diverse range of skills. I am currently focusing on fundamentals of machine learning and specifically deep learning techniques to create predictive models for fluid mechanics problems. I am passionate with python programming and developing small projects in my personal GitHub page. 
 
-If you are interested in knowing more about my research, please feel free to contact me through email, Twitter or LinkedIn links provided here.
-{: .notice--info}
-
 <!-- I received a 5-year Mechanical Engineering Diploma (Dipl.-Ing.) from the Aristotle University of Thessaloniki with a specialization in Aeronautics and Engines. My undergraduation studies were focused on gas turbine performance, computational fluid mechanics (CFD) and statistics.
 
 I undertook my Master Thesis in ABB Corporate Research Center (CRC) in Västerås, Sweden. My master thesis topic was focused on the development of reduced order models (ROMs) to accelerate the simulations needed to predict the thermal behavior of high-voltage enclosures while keeping the accuracy in acceptable levels. -->

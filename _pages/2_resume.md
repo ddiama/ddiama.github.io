@@ -48,6 +48,10 @@ Dipl Ing., Mechanical Engineering
 
 #### **<ins>Professional Experience</ins>**
 
+**Chair**  
+Student Advisory Committee, ASME Turbo Expo 2023  
+*July 2023 - Present* 
+
 **Doctoral Council member**  
 Doctoral Council, Mälardalen University, Västerås, Sweden
 *November 2021 - Present* 

@@ -8,7 +8,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/pexels-pixabay-358319.jpg
   caption: "Photo credit: Time Lapse Photography of White Commercial Airplane"
-excerpt: "Personal website." 
+excerpt: "Personal website" 
 ---
 I am a PhD student and I work with hybrid-electric propulsion architectures for small commuter aircraft applications. Know more [about me here](/about/).
 

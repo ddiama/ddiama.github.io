@@ -14,4 +14,4 @@ I am a PhD student and I work with hybrid-electric propulsion architectures for 
 
 <!-- [^ref1]: The development version is available for download on Python Packaging Index (PyPI) and on my GitHub repository - [project-NAnPack](https://github.com/vxsharma-14/project-NAnPack). -->
 
-*Let's connect on [Twitter](https://twitter.com/dediamant95) and/or [LinkedIn](https://www.linkedin.com/in/dimitra-eirini-diamantidou/)*.  
+*Reach out on [Twitter](https://twitter.com/dediamant95) and/or [LinkedIn](https://www.linkedin.com/in/dimitra-eirini-diamantidou/)*.  

@@ -24,9 +24,9 @@ minimal_mistakes_skin    : "contrast" #"air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ddiama.github.io"
+title                    : "dimitra-diama.com"
 title_separator          : ""
-subtitle                 : "ddiama.github.io" # site tagline that appears below site title in masthead
+subtitle                 : "dimitra-diama.com" # site tagline that appears below site title in masthead
 name                     : "Dimitra-Eirini Diamantidou"
 description              : "My personal website to promote my research and work."
 url                      : "www.dimitra-diama.com" # the base hostname & protocol for your site, e.g. http://example.com

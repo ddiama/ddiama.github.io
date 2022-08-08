@@ -3,8 +3,7 @@ layout: single
 title: Research & Teaching
 header:
   overlay_image: /assets/images/iwan-shimko-tCp2K2sYpFg-unsplash.jpg
-  caption: "Photo credit: Photo by <a href="https://unsplash.com/@iwnph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Iwan Shimko</a> on <a href="https://unsplash.com/s/photos/aviation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  "
+  caption: "Photo credit: Photo by Iwan Shimko on Unsplash"
 permalink: /research/
 author_profile: false
 sidebar:

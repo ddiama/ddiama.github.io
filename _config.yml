@@ -357,3 +357,5 @@ picture:
       source_default:
         width            : "320"
 
+
+theme: jekyll-theme-slate

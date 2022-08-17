@@ -19,15 +19,6 @@ Fyrtornsgatan 7A, 72210, Västerås, Sweden
 Email: [diamantidoude@gmail.com](mailto:diamantidoude@gmail.com) **|** 
 GitHub: [ddiama](https://github.com/ddiama)
 
-#### **<ins>Education</ins>**
-**Mälardalen University, Västerås, Sweden**  
-Ph.D., Energy and Enviromental Engineering   
-2019 - Present
-
-**Aristotle University of Thessaloniki, Thessaloniki, Greece**  
-Dipl Ing., Mechanical Engineering  
-2013 - 2019  
-
 #### **<ins>Skills</ins>**
 **Programming**: Python, Fortran 90, C++, Matlab and Bash  
 
@@ -71,3 +62,12 @@ ABB Corporate Researcher Center, Västerås, Sweden
 **Suspesion Team Leader**  
 Aristotle Racing Team, Formula SAE International team
 *September 2014 – September 2016*  
+
+#### **<ins>Education</ins>**
+**Mälardalen University, Västerås, Sweden**  
+Ph.D., Energy and Enviromental Engineering   
+2019 - Present
+
+**Aristotle University of Thessaloniki, Thessaloniki, Greece**  
+Dipl Ing., Mechanical Engineering  
+2013 - 2019  

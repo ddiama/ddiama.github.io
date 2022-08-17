@@ -14,19 +14,20 @@ sidebar:
 
 ###### Ongoing
 * Conceptual design of hyrid-electric small commuter aircraft 
-  * Development of a Mission and Operational Analysis model with respect to CS-23 certification aspects
-  * Development of a Python-based integration framework to include different disciplines (e.g. engine model, electrical power system model, etc.)
-  * System-level assessment studies to explore the design trade-offs when employing hybrid-electric powertrain architectures 
+* Development of a mission and operational analysis model with respect to CS-23 certification aspects for hybrid-electric electric powertrain architectures
+* Involved in the development of a Python-based integration framework to include different disciplines (e.g. engine model, electrical power system model, etc.)
+* System-level assessment studies to explore the design trade-offs when employing hybrid-electric powertrain architectures 
 * Airframe-propulsor integrated performance assessment of a hybrid-electric aircraft featuring a boundary layer ingestion (BLI) electrical fan
-  * Computational Fluid Dynamics (CFD) simulations of the fuselage with the electrical fan to understand its aerodynamic performance
-  * Coupled airframe-propulsor system-level analysis 
+* Computational Fluid Dynamics (CFD) simulations of the fuselage with the electrical fan to understand its aerodynamic performance
+* Coupled airframe-propulsor system-level analysis 
 
 ###### Completed
 * System-level assessment of a hybrid-electric long haul aircraft featuring two additional electrical fans per wing
 * Development of an initialization approach based on surrogate models to improve the convergence rate of the gas turbine performance tool for a range of different aircraft applications
 * Investigation of the applicability of machine learning techniques to investigate the thermal loading of high voltage enclosures
-  * Conjugate heat transfer CFD simulations using the OpenFOAM open-source software to obtain the necessary training dataset
-  * Development of a robust technique blending the conjugate heat transfer simulations with reduced order models to accelerate the speed of the solutions in an accurate manner
+* Conjugate heat transfer CFD simulations using the OpenFOAM open-source software to obtain the necessary training dataset
+* Development of a robust technique blending the conjugate heat transfer simulations with reduced order models to accelerate the speed of the solutions in an accurate manner
+* Participation in Formula Student competitions: involed in the design, manufacture and testing of a single-seater formula car
 
 #### **Teaching**
 * Teaching assistant in ERA303 (Process Optimization) for academic years of 2021 and 2022

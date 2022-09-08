@@ -39,18 +39,6 @@ GitHub: [ddiama](https://github.com/ddiama)
 
 #### **<ins>Professional Experience</ins>**
 
-**Chair**  
-Student Advisory Committee, ASME Turbo Expo 2023  
-*July 2022 - Present* 
-
-**Doctoral Council member**  
-Doctoral Council, Mälardalen University, Västerås, Sweden
-*November 2021 - Present* 
-
-**Vice-Chair**  
-Student Advisory Committee, ASME Turbo Expo 2022  
-*July 2021 - Present* 
-
 **PhD Researcher**  
 Mälardalen University, Västerås, Sweden
 *September 2019 – Present*  
@@ -71,3 +59,17 @@ Ph.D., Energy and Enviromental Engineering
 **Aristotle University of Thessaloniki, Thessaloniki, Greece**  
 Dipl Ing., Mechanical Engineering  
 2013 - 2019  
+
+#### **<ins>Extracurricular Activities</ins>**
+
+**Chair**  
+Student Advisory Committee, ASME Turbo Expo 2023  
+*July 2022 - Present* 
+
+**Doctoral Council member**  
+Doctoral Council, Mälardalen University, Västerås, Sweden
+*November 2021 - Present* 
+
+**Vice-Chair**  
+Student Advisory Committee, ASME Turbo Expo 2022  
+*July 2021 - Present* 

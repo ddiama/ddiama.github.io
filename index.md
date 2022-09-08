@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: Photo by Iwan Shimko on Unsplash"
 excerpt: "Personal website" 
 ---
-I am self-motivated and creative engineer with a diverse range of skills. I am currently focusing on fundamentals of machine learning and specifically deep learning techniques to create predictive models for fluid mechanics problems. I am passionate with python programming and developing small projects in my personal GitHub page. 
+I am a self-motivated and creative engineer with a diverse range of skills. I am currently focusing on fundamentals of machine learning and specifically deep learning techniques to create predictive models for fluid mechanics problems. I am passionate with python programming and developing small projects in my personal GitHub page. 
 
 I am currently working in Mälardalen University (MDU) as a PhD Researcher for an EU-funded collaborative research project, [HECARRUS](https://hecarrus.eu/). My work focuses on the conceptual design of a Boundary Layer Ingestion (BLI) propulsor employed in a hybrid-electric commuter aircraft. For more details, check out my [Resume](/resume/) and [Research](/research/) pages.
 

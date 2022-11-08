@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Research & Teaching
+title: Research 
 header:
   overlay_image: /assets/images/iwan-shimko-tCp2K2sYpFg-unsplash.jpg
   caption: "Photo credit: Photo by Iwan Shimko on Unsplash"
@@ -28,12 +28,6 @@ sidebar:
 * Conjugate heat transfer CFD simulations using the OpenFOAM open-source software to obtain the necessary training dataset
 * Development of a robust technique blending the conjugate heat transfer simulations with reduced order models to accelerate the speed of the solutions in an accurate manner
 * Participation in Formula Student competitions: involed in the design, manufacture and testing of a single-seater formula car
-
-#### **Teaching**
-* Teaching assistant in ERA303 (Process Optimization) for academic years of 2021 and 2022
-  * Responsible for Linear Programming and SIMPLEX method lecture 
-  * Responsible for Assignment 2 with topic: Production planning of district heating systems using Mixed-Integer Programming and GAMS software
-  * Development of digitally-enchaced classroom to increase student engagement using online tools (e.g. Mentimeter)
 
 #### **Publications**
 

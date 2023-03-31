@@ -12,7 +12,7 @@ sidebar:
 
 [Download Resume Here][1]{: .btn .btn--success .btn--large}
 
-[1]: /assets/docs/Diamantidou_CV_2col.pdf
+[1]: /assets/docs/Dimitra_Diamantidou_CV.pdf
 
 ## Dimitra Eirini Diamantidou 
 Fyrtornsgatan 7A, 72210, Västerås, Sweden  
@@ -26,11 +26,11 @@ GitHub: [ddiama](https://github.com/ddiama)
 
 **Engineering Software**: Creo Parametric, Solidworks and Inventor 
 
-**Python Libraries**: matplotlib, numpy, pandas, pyfmi, scipy, sklearn and seaborn  
+**Python Libraries**: matplotlib, numpy, pandas, pyfmi, scipy, sklearn, openConcept and seaborn  
 
 **Office Tools**: Microsoft - Word, PowerPoint, Excel, and Google - Docs, Sheets 
 
-**Operating Systems**: Windows, UNIX  
+**Operating Systems**: Windows, UNIX, MacOS 
 
 **IDEs**: Spyder, Jupyter Notebook and MS Visual Studio
 
@@ -41,26 +41,46 @@ GitHub: [ddiama](https://github.com/ddiama)
 
 **PhD Researcher**  
 Mälardalen University, Västerås, Sweden
-*September 2019 – Present*  
+*September 2019 – Present* 
+  Project: HECARRUS (Hybrid-Electric Small Commuter Aircraft Conceptual Design), funded by the European Commission
+  Responsibilities:
+  * Developed an operational and mission analysis model including estimation of the aircraft aerodynamics, weights and performance
+  * Created an energy-flow model to account for the energy balance between the fuel and electric energy
+  * Designed an integration framework to include different aircraft disciplines in the optimization loop
+  * Performed data analysis and writing up results for technical reports and publications
 
-**Research Engineer Intern**  
+  Project: TRADE (Turbo Electric Aircraft Design Environment) funded by the European Commission
+  Responsibilities:
+  * Designed and implemented a multi-disciplinary integration platform using the OpenMDAO open-source optimization software
+  * Responsible for the system-level assessment of the aircraft with a focus on the aircraft and mission analysis
+  * Reviewed data and finalised the project technical reports
+
+**Internship**  
 ABB Corporate Researcher Center, Västerås, Sweden
 *February 2019 – August 2019*    
+  * Performed numerical analysis of high voltage components to investigate thermal performance
+  * Accountable for the development of reduced order models using machine learning techniques to predict the thermal loading of components
+  * Examined the operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions
 
 **Suspesion Team Leader**  
 Aristotle Racing Team, Formula SAE International team
 *September 2014 – September 2016*  
+  * Supported the Aristotle Racing Team by designing the technical reports according to the Formula Student regulations
+  * Manufactured the suspension components and aerodynamic package using composite materials
+  * Responsible for the car assembly and suspension set-up during the testing period
 
 #### **<ins>Education</ins>**
 **Mälardalen University, Västerås, Sweden**  
 Ph.D., Energy and Enviromental Engineering   
 2019 - Present
+Thesis: "Design Optimization of Hybrid-Electric Aircraft Using Coupled Aero Propulsive Approaches."
 
 **Aristotle University of Thessaloniki, Thessaloniki, Greece**  
-Dipl Ing., Mechanical Engineering  
+BSc - MA, Mechanical Engineering  
 2013 - 2019  
+Thesis: "Reduced Order Models for Thermal Management of High Voltage Enclosures."
 
-#### **<ins>Extracurricular Activities</ins>**
+#### **<ins>Volunteerism</ins>**
 
 **Chair**  
 Student Advisory Committee, ASME Turbo Expo 2023  

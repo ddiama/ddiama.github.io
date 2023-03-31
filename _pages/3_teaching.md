@@ -12,10 +12,15 @@ sidebar:
 
 #### **Teaching Projects**
 
-* Introduction to data-driven models using Gaussian processes (3 ECTS)
-  * Responsible for course module development
-  * Development of a web-application to illustrate the versatility of Gaussian processes
+* Introduction to Hybrid-electric aicraft applications (2.5 ECTS)
+  * Participation in the EUBBC-Digital project
+
+* Introduction to black-box modelling (3 ECTS)
+  * Participation in the HERO Project for digital teaching modules 
   * Developement of a GitHub repository cookbook for interactive learning
+    * Introduction to black-box modelling
+    * Theory in PCA and PLSR
+    * Examples and assignment development in MATLAB
  
 * Teaching assistant in [ERA303](https://www.mdu.se/en/malardalen-university/education/course-syllabus?id=28116) - Process Optimization (7.5 ECTS) for academic years: 2021 and 2022
   * Responsible for Linear Programming and SIMPLEX method lecture 

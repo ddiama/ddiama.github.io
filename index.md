@@ -10,8 +10,8 @@ header:
   caption: "Photo credit: Photo by Iwan Shimko on Unsplash"
 excerpt: "Personal website" 
 ---
-I am a self-motivated and creative engineer with a diverse range of skills. I am currently focusing on fundamentals of machine learning and specifically deep learning techniques to create predictive models for fluid mechanics problems. I am passionate with python programming and developing small projects in my personal GitHub page. 
+A highly efficient, scientifically curious and innovation focused professional with extensive experience in engineering principles, aerospace, energy systems, and mechanical engineering. Possesses excellent organisational, planning, and high-level analytical skills that include the ability to see granular, as well as big picture issues. Bringing forth capability in performing research on various processes and offering solutions and alterations to achieve optimal results. Outstanding interpersonal, written, and oral communication skills and proficient in building relationships with engineers, researchers, professors and co-workers.
 
-I am currently working in Mälardalen University (MDU) as a PhD Researcher for an EU-funded collaborative research project, [HECARRUS](https://hecarrus.eu/). My work focuses on the conceptual design of a Boundary Layer Ingestion (BLI) propulsor employed in a hybrid-electric commuter aircraft. For more details, check out my [Resume](/resume/) and [Research](/research/) pages.
+For more details, check out the [Resume](/resume/) and [Research](/research/) pages.
 
 *Reach out on [Twitter](https://twitter.com/dediamant95) and/or [LinkedIn](https://www.linkedin.com/in/dimitra-eirini-diamantidou/)*.  

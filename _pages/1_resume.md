@@ -15,7 +15,7 @@ sidebar:
 [1]: /assets/docs/Dimitra_Diamantidou_CV.pdf
 
 ## Dimitra Eirini Diamantidou 
-Fyrtornsgatan 7A, 72210, Västerås, Sweden  
+Västerås, Sweden  
 Email: [diamantidoude@gmail.com](mailto:diamantidoude@gmail.com) **|** 
 GitHub: [ddiama](https://github.com/ddiama)
 

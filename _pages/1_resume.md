@@ -50,7 +50,7 @@ Mälardalen University, Västerås, Sweden
   * Responsible for the system-level assessment of the aircraft with a focus on the aircraft and mission analysis
   * Performed data analysis and writing up results for technical reports and publications
 
-**Internship**  
+**Thermal Analysis Intern**  
 ABB Corporate Researcher Center, Västerås, Sweden
 *February 2019 – August 2019*    
   * Performed numerical analysis of high voltage components to investigate thermal performance
@@ -77,14 +77,22 @@ Thesis: "Reduced Order Models for Thermal Management of High Voltage Enclosures.
 
 #### **<ins>Volunteerism</ins>**
 
+**Member**
+IGTI Executive Committee, ASME Turbo Expo 2024
+*July 2023 - Present*
+
+**Past-Chair**  
+Student Advisory Committee, ASME Turbo Expo 2024  
+*July 2023 - Present* 
+
 **Chair**  
 Student Advisory Committee, ASME Turbo Expo 2023  
-*July 2022 - Present* 
+*July 2022 - June 2023* 
 
 **Doctoral Council member**  
 Doctoral Council, Mälardalen University, Västerås, Sweden
-*November 2021 - Present* 
+*November 2021 - June 2023* 
 
 **Vice-Chair**  
 Student Advisory Committee, ASME Turbo Expo 2022  
-*July 2021 - Present* 
+*July 2021 - June 2022* 

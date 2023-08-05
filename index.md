@@ -8,10 +8,16 @@ author_profile: true
 header:
   overlay_image: /assets/images/iwan-shimko-tCp2K2sYpFg-unsplash.jpg
   caption: "Photo credit: Photo by Iwan Shimko on Unsplash"
-excerpt: "Personal website" 
+excerpt: "Dimitra's space." 
 ---
-A highly efficient, scientifically curious and innovation focused professional with extensive experience in engineering principles, aerospace, energy systems, and mechanical engineering. Possesses excellent organisational, planning, and high-level analytical skills that include the ability to see granular, as well as big picture issues. Bringing forth capability in performing research on various processes and offering solutions and alterations to achieve optimal results. Outstanding interpersonal, written, and oral communication skills and proficient in building relationships with engineers, researchers, professors and co-workers.
+I'm Dimitra! 
 
-For more details, check out the [Resume](/resume/) and [Research](/research/) pages.
+I was born and raised in Greece 🇬🇷, but I am currently based in Sweden 🇸🇪. 
+
+The passion to learn and understand how the machines around us work led me to study mechanical engineering at Aristotle University of Thessaloniki. During my studies, I was fascinated by the complexity of gas turbines and decided to pursue a career in the aerospace sector ✈️. Currently, I am working as a PhD Researcher in MDU, Sweden. 
+
+I aqcuired an interest in machine learning and AI during the last years, so I am currently working on learning the fundamentals and try to combine both my passions. 
+
+In my free time, I enjoy playing padel, boxing, painting and portrait photography. 
 
 *Reach out on [Twitter](https://twitter.com/dediamant95) and/or [LinkedIn](https://www.linkedin.com/in/dimitra-eirini-diamantidou/)*.  

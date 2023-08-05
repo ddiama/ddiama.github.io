@@ -64,7 +64,7 @@ Aristotle Racing Team, Formula SAE International team
 **Mälardalen University, Västerås, Sweden**  
 Ph.D., Energy and Enviromental Engineering      
 *2019 - Present*  
-Thesis: "Design Optimization of Hybrid-Electric Aircraft Using Coupled Aero Propulsive Approaches."
+Thesis: "Hybrid-Electric Aircraft Optimization: Aero-Engine to Aircraft System Efficiency under Uncertainty."
 
 **Aristotle University of Thessaloniki, Thessaloniki, Greece**  
 BSc - MA, Mechanical Engineering  

@@ -66,22 +66,22 @@ Aristotle Racing Team, Formula SAE International team
 
 #### Education
 ---
-**Mälardalen University, Västerås, Sweden**  
-Ph.D., Energy and Enviromental Engineering   
-*2019 - Present*
+**Mälardalen University, Västerås, Sweden**\
+Ph.D., Energy and Enviromental Engineering\   
+*2019 - Present*\
 Thesis: "Design Optimization of Hybrid-Electric Aircraft Using Coupled Aero Propulsive Approaches."
 
-**Aristotle University of Thessaloniki, Thessaloniki, Greece**  
-BSc - MA, Mechanical Engineering  
-*2013 - 2019*
+**Aristotle University of Thessaloniki, Thessaloniki, Greece**\  
+BSc - MA, Mechanical Engineering\  
+*2013 - 2019*\
 Thesis: "Reduced Order Models for Thermal Management of High Voltage Enclosures."
 
 #### Volunteerism
 ---
 
-**Member**  
-IGTI Executive Committee, ASME Turbo Expo 2024  
-*July 2023 - Present* 
+**Member**\ 
+IGTI Executive Committee, ASME Turbo Expo 2024\  
+*July 2023 - Present*
 
 **Past-Chair**  
 Student Advisory Committee, ASME Turbo Expo 2024  

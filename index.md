@@ -8,7 +8,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/shaun-darwood-TC6u_HnDDqs-unsplash.jpg
   caption: "Credit: Photo by Shaun Darwood on Unsplash"
-excerpt: "To Dimitra's space" 
+excerpt: "to Dimitra's space" 
 ---
 I'm Dimitra 👩🏻‍💻! 
 

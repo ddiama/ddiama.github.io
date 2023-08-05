@@ -2,58 +2,53 @@
 layout: single
 title: Resume
 header:
-  overlay_image: /assets/images/iwan-shimko-tCp2K2sYpFg-unsplash.jpg
-  caption: "Photo credit: Photo by Iwan Shimko on Unsplash"
+  overlay_image: /assets/images/shaun-darwood-TC6u_HnDDqs-unsplash.jpg
+  caption: "Credit: Photo by Shaun Darwood on Unsplash"
 permalink: /resume/
 author_profile: false
 sidebar:
     nav: "docs"
 ---
 
-[Download Resume Here][1]{: .btn .btn--success .btn--large}
+<!-- [Download Resume Here][1]{: .btn .btn--success .btn--large}
 
-[1]: /assets/docs/Dimitra_Diamantidou_CV.pdf
+[1]: /assets/docs/Dimitra_Diamantidou_CV.pdf -->
 
 ## Dimitra Eirini Diamantidou 
 Västerås, Sweden  
-Email: [diamantidoude@gmail.com](mailto:diamantidoude@gmail.com) **|** 
+Email: [ddiamant1295@gmail.com](mailto:ddiamant1295@gmail.com) **|** 
 GitHub: [ddiama](https://github.com/ddiama)
 
 #### **<ins>Skills</ins>**
 **Programming**: Python, Fortran 90, C++, Matlab and Bash  
 
-**CFD Software**: ANSA, Ansys - CFD Workbench, OpenFOAM, Pointwise, Paraview  
+**CFD Software**: ANSA, Ansys, OpenFOAM, Pointwise, Paraview  
 
-**Engineering Software**: Creo Parametric, Solidworks and Inventor 
+**Engineering Software**: Creo Parametric and Inventor 
 
-**Python Libraries**: matplotlib, numpy, pandas, pyfmi, scipy, sklearn, openConcept and seaborn  
-
-**Office Tools**: Microsoft - Word, PowerPoint, Excel, and Google - Docs, Sheets 
+**Python Libraries**: matplotlib, numpy, pandas, pyfmi, scipy, sklearn and seaborn   
 
 **Operating Systems**: Windows, UNIX, MacOS 
 
-**IDEs**: Spyder, Jupyter Notebook and MS Visual Studio
+**IDEs**: Spyder, Jupyter Notebook and Visual Studio Code
 
 **Version Control**: GitHub, Git and MS Azure DevOps
-
 
 #### **<ins>Professional Experience</ins>**
 
 **PhD Researcher**  
 Mälardalen University, Västerås, Sweden
 *September 2019 – Present* 
-  Project: HECARRUS (Hybrid-Electric Small Commuter Aircraft Conceptual Design), funded by the European Commission
+  Projects: 
+  * [HECARRUS](https://hecarrus.eu/) (Hybrid-Electric Small Commuter Aircraft Conceptual Design), funded by the European Commission
+  * [TRADE](https://www.mdu.se/en/malardalen-university/research/research-projects/trade---turbo-electric-aircraft-design-environment) (Turbo Electric Aircraft Design Environment) funded by the European Commission
+
   Responsibilities:
   * Developed an operational and mission analysis model including estimation of the aircraft aerodynamics, weights and performance
   * Created an energy-flow model to account for the energy balance between the fuel and electric energy
-  * Designed an integration framework to include different aircraft disciplines in the optimization loop
-  * Performed data analysis and writing up results for technical reports and publications
-
-  Project: TRADE (Turbo Electric Aircraft Design Environment) funded by the European Commission
-  Responsibilities:
-  * Designed and implemented a multi-disciplinary integration platform using the OpenMDAO open-source optimization software
+  * Designed and implemented a multi-disciplinary integration platform using the [OpenMDAO](https://openmdao.org/newdocs/versions/latest/main.html) open-source optimization software
   * Responsible for the system-level assessment of the aircraft with a focus on the aircraft and mission analysis
-  * Reviewed data and finalised the project technical reports
+  * Performed data analysis and writing up results for technical reports and publications
 
 **Internship**  
 ABB Corporate Researcher Center, Västerås, Sweden

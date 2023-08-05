@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /blog/
+    url: /blogs/
   
 
 # sidebar for resume and research pages
@@ -15,4 +15,4 @@ docs:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /blog/
+    url: /blogs/

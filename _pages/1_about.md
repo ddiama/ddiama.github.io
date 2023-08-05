@@ -36,14 +36,14 @@ GitHub: [ddiama](https://github.com/ddiama)
 #### Professional Experience
 ---
 
-**PhD Researcher**  
-Mälardalen University, Västerås, Sweden
-*September 2019 – Present* 
-  Projects: 
+**PhD Researcher**\  
+Mälardalen University, Västerås, Sweden\
+*September 2019 – Present*\ 
+  Projects:\ 
   * [HECARRUS](https://hecarrus.eu/) (Hybrid-Electric Small Commuter Aircraft Conceptual Design), funded by the European Commission
   * [TRADE](https://www.mdu.se/en/malardalen-university/research/research-projects/trade---turbo-electric-aircraft-design-environment) (Turbo Electric Aircraft Design Environment) funded by the European Commission
 
-  Responsibilities:
+  Responsibilities:\
   * Developed an operational and mission analysis model including estimation of the aircraft aerodynamics, weights and performance
   * Created an energy-flow model to account for the energy balance between the fuel and electric energy
   * Designed and implemented a multi-disciplinary integration platform using the [OpenMDAO](https://openmdao.org/newdocs/versions/latest/main.html) open-source optimization software

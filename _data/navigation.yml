@@ -4,8 +4,8 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /blogs/
+  # - title: "Blog"
+  #   url: /blogs/
   
 
 # sidebar for resume and research pages
@@ -14,5 +14,5 @@ docs:
     url: /
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /blogs/
+  # - title: "Blog"
+  #   url: /blogs/

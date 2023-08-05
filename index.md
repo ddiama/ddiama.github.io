@@ -6,8 +6,8 @@ permalink: /
 hidden: true
 author_profile: true
 header:
-  overlay_image: /assets/images/iwan-shimko-tCp2K2sYpFg-unsplash.jpg
-  caption: "Photo credit: Photo by Iwan Shimko on Unsplash"
+  overlay_image: /assets/images/shaun-darwood-TC6u_HnDDqs-unsplash.jpg
+  caption: "Credit: Photo by Shaun Darwood on Unsplash"
 excerpt: "Dimitra's space." 
 ---
 I'm Dimitra! 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Resume
+title: About
 header:
   overlay_image: /assets/images/shaun-darwood-TC6u_HnDDqs-unsplash.jpg
   caption: "Credit: Photo by Shaun Darwood on Unsplash"
@@ -15,26 +15,26 @@ sidebar:
 [1]: /assets/docs/Dimitra_Diamantidou_CV.pdf -->
 
 ## Dimitra Eirini Diamantidou 
+---
 Västerås, Sweden  
 Email: [ddiamant1295@gmail.com](mailto:ddiamant1295@gmail.com) **|** 
 GitHub: [ddiama](https://github.com/ddiama)
 
-#### **<ins>Skills</ins>**
-**Programming**: Python, Fortran 90, C++, Matlab and Bash  
+### Skillset
+---
 
-**CFD Software**: ANSA, Ansys, OpenFOAM, Pointwise, Paraview  
-
-**Engineering Software**: Creo Parametric and Inventor 
-
-**Python Libraries**: matplotlib, numpy, pandas, pyfmi, scipy, sklearn and seaborn   
-
-**Operating Systems**: Windows, UNIX, MacOS 
-
-**IDEs**: Spyder, Jupyter Notebook and Visual Studio Code
-
-**Version Control**: GitHub, Git and MS Azure DevOps
-
-#### **<ins>Professional Experience</ins>**
+| Category | Tools & Libraries |
+| --- | --- |
+| Development Environments | Jupyter Notebook, VS Code, Spyder |
+| Programming | Python, Fortran 90, C++, Matlab and Bash |
+| Data Wrangling & Analytics | Python, NumPy, pandas, MS Excel |
+| Data Visualization | matplotlib, seaborn, MS Excel |
+| Machine Learning | scikit-learn, TensorFlow |
+| Code Asset Management | GitHub, MS Azure DevOps |
+| Operating Systems | Windows 10, UNIX, MacOS |
+  
+#### Professional Experience
+---
 
 **PhD Researcher**  
 Mälardalen University, Västerås, Sweden
@@ -64,7 +64,8 @@ Aristotle Racing Team, Formula SAE International team
   * Manufactured the suspension components and aerodynamic package using composite materials
   * Responsible for the car assembly and suspension set-up during the testing period
 
-#### **<ins>Education</ins>**
+#### Education
+---
 **Mälardalen University, Västerås, Sweden**  
 Ph.D., Energy and Enviromental Engineering   
 2019 - Present
@@ -75,7 +76,8 @@ BSc - MA, Mechanical Engineering
 2013 - 2019  
 Thesis: "Reduced Order Models for Thermal Management of High Voltage Enclosures."
 
-#### **<ins>Volunteerism</ins>**
+#### Volunteerism
+---
 
 **Member**
 IGTI Executive Committee, ASME Turbo Expo 2024

@@ -20,15 +20,15 @@
 
 theme                    : minimal-mistakes-jekyll
 # remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Welcome!"
 title_separator          : "|"
 subtitle                 : "dimitra-diama.com" # site tagline that appears below site title in masthead
 name                     : "Dimitra-Eirini Diamantidou"
-description              : "My personal website to promote my research and work."
+description              : "Personal website to publish my work."
 url                      : "dimitra-diama.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ddiama/ddiama.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,17 +114,14 @@ analytics:
 # Site Author
 author:
   name                   : "Dimitra-Eirini Diamantidou"
-  avatar                 : "/assets/images/ddiama.jpg"
-  bio                    : "PhD Researcher" 
+  avatar                 : "/assets/images/photo_diama.jpg"
+  bio                    : "Mechanical Engineer, Code lover, Tech Enthusiast." 
   location               : "Sweden"
   email                  :
   links:
     - label              : "Email"
       icon               : "fas fa-fw fa-envelope-square"
-      url                : "mailto:diamantidou.dimitra.eirini@gmail.com"
-    - label              : "Website"
-      icon               : "fas fa-fw fa-link"
-      url                : "https://ddiama.github.io"
+      url                : "mailto:ddiamant1295@gmail.com"
     - label              : "Linkedin"
       icon               : "fab fa-fw fa-linkedin"
       url                : "https://www.linkedin.com/in/dimitra-eirini-diamantidou/"
@@ -134,9 +131,6 @@ author:
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
       url                : "https://github.com/ddiama"
-    # - label              : "Instagram"
-    #   icon               : "fab fa-fw fa-instagram"
-    #   url                : "https://instagram.com/iamvsharma/"
 
 # Site Footer
 footer:
@@ -147,9 +141,6 @@ footer:
     - label              : "GitHub"
       icon               : "fab fa-fw fa-github"
       url                : "https://github.com/ddiama"
-    # - label              : "Instagram"
-    #   icon               : "fab fa-fw fa-instagram"
-    #   url                : "https://instagram.com/iamvsharma/"
     - label              : "Linkedin"
       icon               : "fab fa-fw fa-linkedin"
       url                : "https://linkedin.com/in/dimitra-eirini-diamantidou/"

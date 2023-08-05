@@ -18,4 +18,4 @@ The passion to learn and understand how the machines around us work led me to st
 
 I aqcuired an interest in machine learning 🖥️ and AI 🤖 during the last years, so I am currently working on learning the fundamentals and try to combine both my passions. 
 
-In my free time, I enjoy playing padel 🎾, boxing 🥊, painting 🎨 and portrait photography 📸. 
+In my free time, I enjoy playing padel, boxing, painting and portrait photography. 

@@ -4,7 +4,7 @@ title: About
 header:
   overlay_image: /assets/images/shaun-darwood-TC6u_HnDDqs-unsplash.jpg
   caption: "Credit: Photo by Shaun Darwood on Unsplash"
-permalink: /resume/
+permalink: /about/
 author_profile: false
 sidebar:
     nav: "docs"

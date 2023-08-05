@@ -50,16 +50,16 @@ Mälardalen University, Västerås, Sweden
   * Responsible for the system-level assessment of the aircraft with a focus on the aircraft and mission analysis
   * Performed data analysis and writing up results for technical reports and publications
 
-**Thermal Analysis Intern**  
-ABB Corporate Researcher Center, Västerås, Sweden
-*February 2019 – August 2019*    
+**Thermal Analysis Intern**\
+ABB Corporate Researcher Center, Västerås, Sweden\
+*February 2019 – August 2019*\
   * Performed numerical analysis of high voltage components to investigate thermal performance
   * Accountable for the development of reduced order models using machine learning techniques to predict the thermal loading of components
   * Examined the operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions
 
-**Suspesion Team Leader**  
-Aristotle Racing Team, Formula SAE International team
-*September 2014 – September 2016*  
+**Suspesion Team Leader**\  
+Aristotle Racing Team, Formula SAE International team\
+*September 2014 – September 2016*\
   * Supported the Aristotle Racing Team by designing the technical reports according to the Formula Student regulations
   * Manufactured the suspension components and aerodynamic package using composite materials
   * Responsible for the car assembly and suspension set-up during the testing period
